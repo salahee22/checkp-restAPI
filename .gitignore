@@ -1,0 +1,12 @@
+# Dépendances installées (régénérées avec npm install)
+node_modules/
+
+# Fichier contenant les vraies infos sensibles (mot de passe Atlas, etc.)
+config/.env
+
+# Logs éventuels
+*.log
+
+# Fichiers système (Windows/Mac)
+.DS_Store
+Thumbs.db
